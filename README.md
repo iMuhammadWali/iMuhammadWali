@@ -1,7 +1,6 @@
-<h1 align="center">Hi <img src="https://twemoji.maxcdn.com/v/latest/72x72/1f44b-1f3fd.png" width="30" alt="👋🏽">, I'm Muhammad Wali</h1>
+<h1 align="center">Hi👋🏻, I'm Muhammad Wali</h1>
 
-
-## ⭐ About Me
+<h1>About Me ⭐</h1> 
 - I am currently a student of FAST NUCES Lahore    
 - I enjoy learning new and exciting concepts in Computer Science.
 - I love to write good code (and make it work if does not).   
