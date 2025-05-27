@@ -1,6 +1,5 @@
-Hi 👋, I'm Muhammad Wali
+<h1 align="center">Hi <img src="https://twemoji.maxcdn.com/v/latest/72x72/1f44b-1f3fd.png" width="30" alt="👋🏽">, I'm Muhammad Wali</h1>
 
-A Computer Science student passionate about tech, logic, and backend systems
 
 ## ⭐ About Me
 - I am currently a student of FAST NUCES Lahore    
