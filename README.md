@@ -3,7 +3,7 @@
 
 ---
 
-## ⭐ About Me
+## About Me
 
 - I am currently a student of FAST NUCES Lahore    
 - I enjoy learning new and exciting concepts in Computer Science  
