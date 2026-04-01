@@ -1,5 +1,5 @@
 <h1 align="center">Hi I'm Muhammad Wali👋🏻</h1>
-<h3 align="center">A Computer Science student passionate about tech, logic, and backend systems</h3>
+<h3 align="center">A Computer Science student who currently loves to make applications using android studio.</h3>
 
 ---
 
@@ -7,10 +7,7 @@
 
 - I am currently a student of FAST NUCES Lahore    
 - I enjoy learning new and exciting concepts in Computer Science  
-- I love to write good code (and make it work if it does not)  
-- My current interests include **IoT**, **Automation**, and **Backend Development**  
-  (Hence, not sure about the career path yet, as there are so many interesting things to try out)
-
+- I love to write good code (and make it work if it does not)    
 ---
 
 ## 🔗 Connect with me
