@@ -1,11 +1,11 @@
 <h1 align="center">Hi I'm Muhammad Wali👋🏻</h1>
-<h3 align="center">A Computer Science student who currently loves to make applications using android studio.</h3>
+<h3 align="center">A Computer Science student who currently loves to make applications.</h3>
 
 ---
 
 ## About Me
 
-- I am currently a student of FAST NUCES Lahore    
+- I am currently a 6th Semester student atFAST NUCES Lahore    
 - I enjoy learning new and exciting concepts in Computer Science  
 - I love to write good code (and make it work if it does not)    
 ---
