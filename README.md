@@ -5,9 +5,9 @@
 
 ## About Me
 
-- I am a B.S. [cite_start]Computer Science student at FAST NUCES Lahore (Expected Graduation: July 2027) with a CGPA of 3.74/4.00[cite: 3, 4, 8].
-- [cite_start]Experience includes working as a Web Development Intern and a Teaching Assistant for Computer Organization and Assembly Language[cite: 4].
-- [cite_start]Passionate about engineering mobile and web applications, exploring low-level computing, and implementing clean architecture[cite: 4].
+- I am a B.S. Computer Science student at FAST NUCES Lahore (Expected Graduation: July 2027) with a CGPA of 3.74/4.00.
+- Experience includes working as a Web Development Intern and a Teaching Assistant for Computer Organization and Assembly Language.
+- Passionate about engineering mobile and web applications, exploring low-level computing, and implementing clean architecture.
 
 ---
 
@@ -52,11 +52,11 @@
 
 ## Projects
 
-- [cite_start]**MediConnect:** Healthcare Mobile App engineered with a 3-role system, Firebase Auth email verification gating, and role-based navigation across 4 user flows using React Native and Expo[cite: 4].
-- [cite_start]**SpendSmart:** Personal finance application featuring persistent SQLite storage, categorized expense tracking, and dynamic spending analytics built with React Native and Expo[cite: 4].
-- [cite_start]**CineFAST:** Android Cinema Booking application featuring Firebase Auth, session persistence, drawer navigation, and an SQLite snack inventory system built using Java and Android Studio[cite: 4].
-- [cite_start]**Book Wave:** ReactJS application leveraging the Google Books API with integrated client-side caching to support rapid global book searches[cite: 4].
-- [cite_start]**Web Chess:** Responsive browser-based chess platform offering local multiplayer, daily puzzles via Chess.com API, and AI gameplay driven by the Minimax algorithm[cite: 4].
+- **MediConnect:** Healthcare Mobile App engineered with a 3-role system, Firebase Auth email verification gating, and role-based navigation across 4 user flows using React Native and Expo.
+- **SpendSmart:** Personal finance application featuring persistent SQLite storage, categorized expense tracking, and dynamic spending analytics built with React Native and Expo.
+- **CineFAST:** Android Cinema Booking application featuring Firebase Auth, session persistence, drawer navigation, and an SQLite snack inventory system built using Java and Android Studio.
+- **Book Wave:** ReactJS application leveraging the Google Books API with integrated client-side caching to support rapid global book searches[cite: 4].
+- **Web Chess:** Responsive browser-based chess platform offering local multiplayer, daily puzzles via Chess.com API, and AI gameplay driven by the Minimax algorithm.
 
 ---
 
