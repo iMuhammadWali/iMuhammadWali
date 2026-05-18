@@ -55,7 +55,7 @@
 - **MediConnect:** Healthcare Mobile App engineered with a 3-role system, Firebase Auth email verification gating, and role-based navigation across 4 user flows using React Native and Expo.
 - **SpendSmart:** Personal finance application featuring persistent SQLite storage, categorized expense tracking, and dynamic spending analytics built with React Native and Expo.
 - **CineFAST:** Android Cinema Booking application featuring Firebase Auth, session persistence, drawer navigation, and an SQLite snack inventory system built using Java and Android Studio.
-- **Book Wave:** ReactJS application leveraging the Google Books API with integrated client-side caching to support rapid global book searches[cite: 4].
+- **Book Wave:** ReactJS application leveraging the Google Books API with integrated client-side caching to support rapid global book searches.
 - **Web Chess:** Responsive browser-based chess platform offering local multiplayer, daily puzzles via Chess.com API, and AI gameplay driven by the Minimax algorithm.
 
 ---
