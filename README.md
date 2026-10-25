@@ -17,7 +17,7 @@ I build reliable, user-focused products across web, mobile, backend, and cloud.
 ## About me
 
 - 🎓 B.S. Computer Science student at **FAST NUCES, Lahore** — graduating July 2027 with a **3.75/4.00 CGPA**.
-- 💼 Junior Software Engineer at **Eveonix**, building full-stack SaaS products and e-commerce automation systems.
+- 💼 Ex Junior Software Engineer at **Eveonix**, building full-stack SaaS products and e-commerce automation systems.
 - 🧩 Interested in product engineering, clean architecture, algorithms, and dependable backend systems.
 - 🏅 **Dean's List** for six consecutive semesters and **1st Place** in the SOFTEC SQL Query Master Competition.
 
